@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://signallantern.netlify.app",
     title: "signal lantern",
   },
   plugins: [
